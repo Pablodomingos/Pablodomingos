@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🌱 Estou aprendendo: C/JAVA
+- 🌱 Estou aprendendo: C
 - 📫 Meu contato: pablodomingos1700@gmail.com
 
  <div>
