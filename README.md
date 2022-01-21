@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🌱 Estou aprendendo: C
+- 🌱 Estou aprendendo: 
 - 📫 Meu contato: pablodomingos1700@gmail.com
 
  <div>
