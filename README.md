@@ -9,10 +9,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablodomingos&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pavlo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pablo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<!--   <img align="center" alt="Pablo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> -->
   <img align="right" alt="Pablo-Gif" height="200" width="350" src="https://cdn.discordapp.com/attachments/882997166266794008/882997197128491058/9kA5.gif">
 </div>
   
