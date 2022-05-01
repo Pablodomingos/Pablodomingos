@@ -36,6 +36,6 @@
  <div>
   <h3>📨Contacts</h3>
   <a href="https://www.linkedin.com/in/pablo-domingos-5516b01b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
-   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=DmwnWstptZstnVnZPmMpNtHZQgKGnrHdKjVRmkGScqRNcmHTMSgSlhdnKCZQcntsQPCnbNFWRdsb" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 </div>
