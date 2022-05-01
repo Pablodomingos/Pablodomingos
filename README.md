@@ -1,16 +1,17 @@
 ### Hi! 👋
  
+ 
+ <h1 align="rigth">📈 My Git Stats</h1>
  <div align="center">
- <h1>My Git Stats</h1>
   <a href="https://github.com/Pablodomingos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablodomingos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablodomingos&layout=compact&langs_count=7&theme=react"/>
    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Pablodomingos&theme=react&date_format=j%20M%5B%20Y%5D"/>
 </div><br><br>
  
- <!---<img align="right" alt="Pablo-Gif" height="200" width="350" src="https://cdn.discordapp.com/attachments/882997166266794008/882997197128491058/9kA5.gif">-->
+ <img align="right" alt="Pablo-Gif" height="300" width="450" src="https://cdn.discordapp.com/attachments/882997166266794008/882997197128491058/9kA5.gif">
  
-<div align="center"><br>
+<div><br>
  <div>
   <h2>🧑‍💻 Language</h2>
   <img align="center" alt="Pablo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
