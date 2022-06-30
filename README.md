@@ -6,11 +6,11 @@
   <a href="https://github.com/Pablodomingos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablodomingos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablodomingos&layout=compact&langs_count=7&theme=react"/>
-</div><br><br>
+</div>
  
 <div><br>
  <img align="right" alt="Pablo-Gif" height="250" width="400" src="https://cdn.discordapp.com/attachments/882997166266794008/882997197128491058/9kA5.gif">
- <div><br>
+ <div>
   <h2>👾​💻 Language</h2>
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
