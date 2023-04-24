@@ -3,8 +3,8 @@
 ##
 
 <div>
- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pablodomingos&theme=github_dark" />
- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pablodomingos&theme=github_dark" />
+ <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pablodomingos&theme=github_dark"/>
+ <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pablodomingos&theme=github_dark"/>
 </div>
 
 ##
